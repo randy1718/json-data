@@ -1,18 +1,19 @@
 [
 {
   "id": 1,
-   "value": "Adelantar proyecto de reactjs"
-},{
+  "value": "Adelantar proyecto de reactjs"
+},
+{
   "id": 2,
-   "value": "Comprar materiales de dibujo"
+  "value": "Comprar materiales de dibujo"
 },
 {
   "id": 3,
-   "value": "Vender el celular"
+  "value": "Vender el celular"
 },
 {
   "id": 4,
-   "value": "Terminar el trabajo de sistemas"
+  "value": "Terminar el trabajo de sistemas"
 },
 {
   "id": 5,
@@ -24,18 +25,18 @@
 },
 {
   "id": 7,
-   "value": "Comprar un pantalon negro"
+  "value": "Comprar un pantalon negro"
 },
 {
   "id": 8,
-   "value": "Recoger a mi perro de la veterinaria"
+  "value": "Recoger a mi perro de la veterinaria"
 },
 {
   "id": 9,
-   "value": "Buscar sobre redux"
+  "value": "Buscar sobre redux"
 },
 {
   "id": 10,
-   "value": "Ver videos sobre turning red"
+  "value": "Ver videos sobre turning red"
 }
 ]
